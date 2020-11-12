@@ -16,7 +16,6 @@ Online versions
 
 Use the following links:
 
-* [Lecture-0 Scientific Computing with Python](http://nbviewer.ipython.org/urls/raw.github.com/hariseldon99/scientific-python-lectures/master/Lecture-0-Scientific-Computing-with-Python.ipynb)
 * [Lecture-1 Introduction to Python Programming](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb)
 * [Lecture-2 Numpy - multidimensional data arrays](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
 * [Lecture-3 Scipy - Library of scientific algorithms](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
