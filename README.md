@@ -3,7 +3,8 @@ Lectures on scientific computing with Python
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/README.ipynb)
 
-A set of lectures on scientific computing with Python, using IPython notebooks.
+A set of lectures on scientific computing with Python, using jupyter notebooks.
+
 Instructions
 =========================
 You can run these python codes by installing the requisite software in your computer, or online through [Google Colab](https://colab.research.google.com/).
