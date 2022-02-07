@@ -16,16 +16,9 @@ Online versions
 
 Use the following links:
 
-* [Lecture-1 Introduction to Python Programming](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb)
 * [Lecture-2 Numpy - multidimensional data arrays](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
 * [Lecture-3 Scipy - Library of scientific algorithms](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
 * [Lecture-4 Matplotlib - 2D and 3D plotting](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
-* [Lecture-5 Sympy - Symbolic algebra](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-5-Sympy.ipynb)
-* [Lecture-6A C and Fortran integration](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-6A-Fortran-and-C.ipynb)
-* [Lecture-6B HPC](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-6B-HPC.ipynb)
-* [Lecture-7 Revision Control Software](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-7-Revision-Control-Software.ipynb)
-
-A PDF file containing all the lectures is available here: [Scientific Computing with Python](http://raw.github.com/hariseldon99/scientific-python-lectures/master/Scientific-Computing-with-Python.pdf)
 
 
 License
