@@ -1,4 +1,4 @@
-Lectures on scientific computing with Python
+Tutorials on scientific computing with Python
 ============================================
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/README.ipynb)
