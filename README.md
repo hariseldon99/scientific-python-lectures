@@ -46,5 +46,6 @@ Use the following links:
 
 License
 =======
-This is a fork of [jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures)
+This is a fork of [jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures). The copy has some updates to the codes, and
+the pedagogocal material has been curated for content that is relevant to the [course which this material supplements](https://bit.ly/msph402b).
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
