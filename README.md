@@ -40,7 +40,6 @@ List of Tutorial Notebooks with Code
 Use the following links:
 
 * [Lecture-2 Numpy - multidimensional data arrays](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
-* [Lecture-3 Scipy - Library of scientific algorithms](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
 * [Lecture-4 Matplotlib - 2D and 3D plotting](https://colab.research.google.com/github/hariseldon99/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
 
 
