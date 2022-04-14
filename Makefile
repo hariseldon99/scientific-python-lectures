@@ -1,13 +1,9 @@
 #
 # Build a PDF with all the notebooks 
 #
-TEMPLATE=chapter
-NOTEBOOKS=Lecture-0-Scientific-Computing-with-Python.ipynb \
-          Lecture-1-Introduction-to-Python-Programming.ipynb \
-          Lecture-2-Numpy.ipynb Lecture-3-Scipy.ipynb \
-          Lecture-4-Matplotlib.ipynb Lecture-5-Sympy.ipynb \
-          Lecture-6A-Fortran-and-C.ipynb Lecture-6B-HPC.ipynb \
-          Lecture-7-Revision-Control-Software.ipynb
+TEMPLATE=latex
+NOTEBOOKS=Lecture-1-Numpy\
+          Lecture-2-Matplotlib
 
 LATEXFILES=$(NOTEBOOKS:.ipynb=.tex)
 
@@ -22,5 +18,7 @@ latexfiles:
 	done
 
 buildpdf: latexfiles
-	pdflatex Scientific-Computing-with-Python.tex
+	for notebook in $(NOTEBOOKS) ; do \
+		pdflatex $$notebook ; \
+	done
     
