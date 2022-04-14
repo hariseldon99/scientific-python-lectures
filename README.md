@@ -37,9 +37,8 @@ List of Tutorial Notebooks with Code
 
 Use the following links:
 
-* [Lecture-2 Numpy - multidimensional data arrays](Lecture-2-Numpy.ipynb)
-* [Lecture-4 Matplotlib - 2D and 3D plotting](Lecture-4-Matplotlib.ipynb)
-* [Lecture-5 Introduction to Scipy](Lecture-5-Scipy-Intro.ipynb)
+* [Lecture-1 Numpy - multidimensional data arrays](Lecture-1-Numpy.ipynb)
+* [Lecture-2 Matplotlib - 2D and 3D plotting](Lecture-2-Matplotlib.ipynb)
 
 License
 =======
